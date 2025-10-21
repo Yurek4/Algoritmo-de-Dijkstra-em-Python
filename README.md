@@ -2,6 +2,8 @@
 
 Este projeto faz parte do **Trabalho 01** da disciplina **Aspectos Teóricos da Computação (ATC)** e consiste na implementação do **Algoritmo de Dijkstra** para encontrar o caminho de menor custo em um grafo **ponderado e não-direcionado**.
 
+![images](https://github.com/user-attachments/assets/0802bd79-0317-4ac5-a624-da906896a40d)
+
 ---
 
 ## 🎯 Objetivo
