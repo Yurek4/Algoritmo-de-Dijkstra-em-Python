@@ -28,3 +28,5 @@ Criar um programa em Python que:
 
 ## 📂 Estrutura do Projeto
 
+├── dijkstra.py # Código principal com o Algoritmo de Dijkstra
+├── inst01.txt # Exemplo de arquivo de entrada (instância de teste)
